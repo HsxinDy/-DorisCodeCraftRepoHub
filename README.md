@@ -4,9 +4,9 @@ This portfolio includes three  projects:
 
 * Pokémon Tracker
 * Scene Image Classification
-* Credit Card Fraud Detection
+* Credit Card Fraud Detection, 
 
-, and the implemenatation of each project underlies the
+and the implemenatation of each project underlies the
 flowchart as following: 
 
 ![](Material/Flowchart.png)
