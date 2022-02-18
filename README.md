@@ -1,4 +1,4 @@
-## Project Portfolio
+# Project Portfolio
 
 This portfolio includes three  projects:  
 
