@@ -1,4 +1,4 @@
-#Project Portfolio
+## Project Portfolio
 
 This portfolio includes three  projects:  
 
@@ -13,7 +13,7 @@ flowchart as following:
 
 In the following section, the description of each project would be introduced to demonstrate my hand-on experience in Artificial Intelligence.
 
-#Pokémon Tracker
+## Pokémon Tracker
 The objective of this project is to design a predictive model using deep neural network (DNN) to predict 6 types of Pokémon based on a list of 16 informative variables. The classification of the Pokémon are classified as following:
 
 - Class 0: [Sandshrew](https://bulbapedia.bulbagarden.net/wiki/Sandshrew_(Pokémon))
@@ -46,14 +46,14 @@ To conduct validation assessment, accuracy is assigned as the evluation metric f
 
 Further detail of the algorithmn for this project could be assessed through the file `Pokémon Tracker.ipynb`.
 
-#Scene Image Classification
+## Scene Image Classification
 The design of the project is to develop a Convolutional Neural Network (CNN) including data agumentation within the data preparation process. The Machine Learning model I developed adopts Xception to achieve high accuracy performance in image classification within a set 15 scene images. The examples for classification of the dataset could be seen as following:
 
 ![](/Users/doris/Desktop/Job Searching /Academic Assessments/Data Analytics/CNN.png)
 
 Further detail of the algorithmn for this project could be assessed through the file `Scene Image Classification.ipynb`.
 
-#Credit Card Fraud Detection
+## Credit Card Fraud Detection
 This project is took part in [2019 T-Brain Machine Learning Competition](https://tbrain.trendmicro.com.tw/Competitions/Details/10) held by E.SUN Commercial Bank. The purpose of the competition is to prevent fraudulent transactions with Machine Learning. The measurement for prediction model performance is weighed by F1 Score. 
 
 In this project, I develop algorithms using XGBoost to achieve the project objective. Further detail of the algorithmn for this project could be assessed through the file `Credit Card Fraud Detection.ipynb`.
