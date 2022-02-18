@@ -49,7 +49,7 @@ Further detail of the algorithmn for this project could be assessed through the 
 ## Scene Image Classification
 The design of the project is to develop a Convolutional Neural Network (CNN) including data agumentation within the data preparation process. The Machine Learning model I developed adopts Xception to achieve high accuracy performance in image classification within a set 15 scene images. The examples for classification of the dataset could be seen as following:
 
-![](/Users/doris/Desktop/Job Searching /Academic Assessments/Data Analytics/CNN.png)
+![](Material/CNN.png)
 
 Further detail of the algorithmn for this project could be assessed through the file `Scene Image Classification.ipynb`.
 
