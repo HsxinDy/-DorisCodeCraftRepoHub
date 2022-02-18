@@ -14,7 +14,7 @@ flowchart as following:
 In the following section, the description of each project would be introduced to demonstrate my hand-on experience in Artificial Intelligence.
 
 ## Pokémon Tracker
-The objective of this project is to design a predictive model using deep neural network (DNN) to predict 6 types of Pokémon based on a list of 16 informative variables. The classification of the Pokémon are classified as following:
+The objective of this project is to design a predictive model using Deep Neural Network (DNN) to predict 6 types of Pokémon based on a list of 16 informative variables. The classification of the Pokémon are classified as following:
 
 - Class 0: [Sandshrew](https://bulbapedia.bulbagarden.net/wiki/Sandshrew_(Pokémon))
 - Class 1: [Tentacool](https://bulbapedia.bulbagarden.net/wiki/Tentacool_(Pokémon))
