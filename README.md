@@ -9,7 +9,7 @@ This portfolio includes three  projects:
 , and the implemenatation of each project underlies the
 flowchart as following: 
 
-![](/Users/doris/Desktop/Job Searching /Academic Assessments/Data Analytics/Flowchart.png)
+![](Material/Flowchart.png)
 
 In the following section, the description of each project would be introduced to demonstrate my hand-on experience in Artificial Intelligence.
 
