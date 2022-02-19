@@ -62,5 +62,6 @@ In this project, XGBoost algorithm is adopted to achieve the project objective. 
 
 ![](Material/Credit Card Fraud Detection Result.png)
 
+
 Further detail of the algorithmn for this project could be assessed through the file `Credit Card Fraud Detection.ipynb`.
 
