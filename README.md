@@ -11,7 +11,7 @@ flowchart as following:
 
 ![](Material/Flowchart.png)
 
-In the following section, the description of each project would be introduced to demonstrate my hand-on experience in Artificial Intelligence.
+In the following section, the description and the performance result of each project would be introduced to demonstrate my hand-on experience in Artificial Intelligence.
 
 ## Pokémon Tracker
 The objective of this project is to design a predictive model using Deep Neural Network (DNN) to predict 6 types of Pokémon based on a list of 16 informative variables. The classification of the Pokémon are classified as following:
@@ -42,8 +42,7 @@ The variables from the dataset includes:
 - Gym in 100 m
 - Co-occurrence
 
-To conduct validation assessment, accuracy is assigned as the evluation metric for model performance.
-
+To conduct validation assessment for the predictive model, accuracy is assigned as the evluation metric for model performance. As shown in
 Further detail of the algorithmn for this project could be assessed through the file `Pokémon Tracker.ipynb`.
 
 ## Scene Image Classification
@@ -51,10 +50,17 @@ The design of the project is to develop a Convolutional Neural Network (CNN) inc
 
 ![](Material/CNN.png)
 
+The performance of the image detection model 
+
+
 Further detail of the algorithmn for this project could be assessed through the file `Scene Image Classification.ipynb`.
 
 ## Credit Card Fraud Detection
-This project is took part in [2019 T-Brain Machine Learning Competition](https://tbrain.trendmicro.com.tw/Competitions/Details/10) held by E.SUN Commercial Bank. The purpose of the competition is to prevent fraudulent transactions with Machine Learning. The measurement for prediction model performance is weighed by F1 Score. 
+This project is took part in [2019 T-Brain Machine Learning Competition](https://tbrain.trendmicro.com.tw/Competitions/Details/10) held by E.SUN Commercial Bank. The purpose of the competition is to prevent fraudulent transactions with Machine Learning. 
 
-In this project, I develop algorithms using XGBoost to achieve the project objective. Further detail of the algorithmn for this project could be assessed through the file `Credit Card Fraud Detection.ipynb`.
+In this project, XGBoost algorithm is adopted to achieve the project objective. The measurement for prediction model performance is weighed by F1 Score, and the result is presetned as below:
+
+![](Material/Credit Card Fraud Detection Result.png)
+
+Further detail of the algorithmn for this project could be assessed through the file `Credit Card Fraud Detection.ipynb`.
 
