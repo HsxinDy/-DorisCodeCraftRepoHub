@@ -65,7 +65,7 @@ This project is took part in [2019 T-Brain Machine Learning Competition](https:/
 
 In this project, XGBoost algorithm is adopted to achieve the project objective. The measurement for prediction model performance is weighed by F1 Score, which explains the harmonic mean of the precision and recall. The result of the F1 Score is presetned as below:
 
-<img src="https://github.com/HsxinDy/Hsin-Yi/blob/b4075a6a58d5328bd97305725c46c2a0175f8c03/Material/Credit%20Card%20Fraud%20Detection%20Result.png" width="450" height="300">
+<img src="https://github.com/HsxinDy/Hsin-Yi/blob/b4075a6a58d5328bd97305725c46c2a0175f8c03/Material/Credit%20Card%20Fraud%20Detection%20Result.png" width="300" height="200">
 
 Further detail of the algorithmn for this project could be assessed through the file `Credit Card Fraud Detection.ipynb`.
 
