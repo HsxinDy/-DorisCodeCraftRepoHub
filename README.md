@@ -60,7 +60,7 @@ This project is took part in [2019 T-Brain Machine Learning Competition](https:/
 
 In this project, XGBoost algorithm is adopted to achieve the project objective. The measurement for prediction model performance is weighed by F1 Score, and the result is presetned as below:
 
-![](Material/Credit Card Fraud Detection Result.png)
+![](Material/CreditCardFraudDetectionResult.png)
 
 Further detail of the algorithmn for this project could be assessed through the file `Credit Card Fraud Detection.ipynb`.
 
