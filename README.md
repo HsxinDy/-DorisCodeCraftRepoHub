@@ -4,14 +4,14 @@ This portfolio includes three  projects:
 
 * Pokémon Tracker
 * Scene Image Classification
-* Credit Card Fraud Detection, 
+* Credit Card Fraud Detection
 
-and the implementation of each project underlies the
+The implementation of each project underlies the
 flowchart as following: 
 
 ![](Material/Flowchart.png)
 
-In the following section, the description and the performance result of each project would be introduced to demonstrate my hand-on experience in Artificial Intelligence.
+In the following section, the description and the performance result of each project would be introduced to demonstrate my hands-on experience in Artificial Intelligence.
 
 ## Pokémon Tracker
 The objective of this project is to design a predictive model using Deep Neural Network (DNN) to predict 6 types of Pokémon based on a list of 16 informative variables. The classification of the Pokémon are classified as following:
