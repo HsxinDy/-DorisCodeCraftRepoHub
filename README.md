@@ -42,7 +42,7 @@ The variables from the dataset includes:
 - Gym in 100 m
 - Co-occurrence
 
-As shown in the line chart below, the predictive model is trained and tested to held balance between being overfitting and underfitting, and loss and accuracy are assigned as evluation metric to conduct validation assessment. The loss presented in the upper figure indicates the model performance in each iteration of optimisation, the result implies the descending errors made throughout the model learning process. On the other hand, the degree of accuracy suggests the predictive capability of the model parameter.
+As shown in the line chart below, the predictive model is trained and tested to held balance between being overfitting and underfitting, and loss and accuracy are assigned as evaluation metric to conduct validation assessment. The loss presented in the upper figure indicates the model performance in each iteration of optimisation, the result implies the descending errors made throughout the model learning process. On the other hand, the degree of accuracy suggests the predictive capability of the model parameter.
 
 <img src="https://github.com/HsxinDy/Hsin-Yi/blob/4006c8b5a47d7ff031d36423937cf9c05958c582/Material/Poke%CC%81mon%20Tracker%20Result.png" width="300" height="420">
 
