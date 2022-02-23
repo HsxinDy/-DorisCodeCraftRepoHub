@@ -6,7 +6,7 @@ This portfolio includes three  projects:
 * Scene Image Classification
 * Credit Card Fraud Detection, 
 
-and the implemenatation of each project underlies the
+and the implementation of each project underlies the
 flowchart as following: 
 
 ![](Material/Flowchart.png)
