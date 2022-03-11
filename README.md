@@ -7,7 +7,7 @@ This portfolio includes three  projects:
 * Credit Card Fraud Detection
 
 The implementation of each project underlies the
-flowchart as following: 
+ as following: 
 
 ![](Material/Flowchart.png)
 
