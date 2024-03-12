@@ -13,10 +13,11 @@ The implementation of each project underlies as follows:
 In the following section, the description and the performance results of each project will be introduced to demonstrate my hands-on experience in Artificial Intelligence.
 
 ## Pokémon Tracker
-### Objective:
+
+### Objective
 The objective of this project is to design a predictive model using Deep Neural Network (DNN) to predict six types of Pokémon based on a set of 16 informative variables. 
 
-#Dataset Features
+### Dataset Features
 The variables from the dataset includes:
 
 - Time appeared 
@@ -36,8 +37,7 @@ The variables from the dataset includes:
 - Gym in 100 m
 - Co-occurrence
 
-#Classifications:
-
+### Classifications
 The classification of the Pokémon are classified as following:
 
 - Class 0: [Sandshrew](https://bulbapedia.bulbagarden.net/wiki/Sandshrew_(Pokémon))
@@ -47,7 +47,7 @@ The classification of the Pokémon are classified as following:
 - Class 4: [Voltorb](https://bulbapedia.bulbagarden.net/wiki/Voltorb_(Pokémon))
 - Class 5: [Exeggcute](https://bulbapedia.bulbagarden.net/wiki/Exeggcute_(Pokémon))
 
-#Performance Evaluation:
+### Performance Evaluation
 As shown in the line chart below, the predictive model is trained and tested to held balance between being overfitting and underfitting, and loss and accuracy are assigned as evaluation metric to conduct validation assessment. The loss presented in the upper figure indicates the model performance in each iteration of optimisation, the result implies the descending errors made throughout the model learning process. On the other hand, the degree of accuracy suggests the predictive capability of the model parameter.
 
 <img src="https://github.com/HsxinDy/Hsin-Yi/blob/4006c8b5a47d7ff031d36423937cf9c05958c582/Material/Poke%CC%81mon%20Tracker%20Result.png" width="300" height="420">
@@ -55,10 +55,16 @@ As shown in the line chart below, the predictive model is trained and tested to 
 Further detail of the algorithmn for this project could be assessed through the file `Pokémon Tracker.ipynb`.
 
 ## Scene Image Classification
-The design of the project is to develop a Convolutional Neural Network (CNN) while utilising data agumentation within the data preparation process. In this project, Xception algorithm is adopted in the image dectection model to achieve high accuracy performance for image classification. The classification of the dataset is targeted at 15 types scene images. The example of the target dataset could be seen as following:
+
+### Objective
+The design of the project is to develop a Convolutional Neural Network (CNN) while utilising data agumentation within the data preparation process. In this project, Xception algorithm is adopted in the image dectection model to achieve high accuracy performance for image classification.
+
+### Classification
+The classification of the dataset is targeted at 15 types scene images. The example of the target dataset could be seen as following:
 
 ![](Material/CNN.png)
 
+### Performance Evaluation
 The performance of image detection is illustrated from the graph below: 
 
 <img src="https://github.com/HsxinDy/Hsin-Yi/blob/4006c8b5a47d7ff031d36423937cf9c05958c582/Material/Image%20Detection%20Result.png" width="300" height="390">
@@ -75,3 +81,5 @@ In this project, XGBoost algorithm is adopted to achieve the project objective. 
 
 Further detail of the algorithmn for this project could be assessed through the file `Credit Card Fraud Detection.ipynb`.
 
+## Conclusion
+These projects reflect my practical experience and proficiency in applying data analysis and machine learning techniques to address complex 
