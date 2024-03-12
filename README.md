@@ -13,7 +13,7 @@ The implementation of each project underlies as follows:
 In the following section, the description and the performance results of each project will be introduced to demonstrate my hands-on experience in Artificial Intelligence.
 
 ## Pokémon Tracker
-#Objective:
+**Objective:**
 The objective of this project is to design a predictive model using Deep Neural Network (DNN) to predict six types of Pokémon based on a set of 16 informative variables. 
 
 #Dataset Features
