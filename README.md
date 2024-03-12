@@ -6,22 +6,17 @@ This portfolio showcases my expertise in data analysis and artificial intelligen
 * Scene Image Classification
 * Credit Card Fraud Detection
 
-The implementation of each project underlies as following: 
+The implementation of each project underlies as follows: 
 
 ![](Material/Flowchart.png)
 
-In the following section, the description and the performance result of each project would be introduced to demonstrate my hands-on experience in Artificial Intelligence.
+In the following section, the description and the performance results of each project will be introduced to demonstrate my hands-on experience in Artificial Intelligence.
 
 ## Pokémon Tracker
-The objective of this project is to design a predictive model using Deep Neural Network (DNN) to predict 6 types of Pokémon based on a list of 16 informative variables. The classification of the Pokémon are classified as following:
+#Objective:
+The objective of this project is to design a predictive model using Deep Neural Network (DNN) to predict six types of Pokémon based on a set of 16 informative variables. 
 
-- Class 0: [Sandshrew](https://bulbapedia.bulbagarden.net/wiki/Sandshrew_(Pokémon))
-- Class 1: [Tentacool](https://bulbapedia.bulbagarden.net/wiki/Tentacool_(Pokémon))
-- Class 2: [Slowpoke](https://bulbapedia.bulbagarden.net/wiki/Slowpoke_(Pokémon))
-- Class 3: [Magnemite](https://bulbapedia.bulbagarden.net/wiki/Magnemite_(Pokémon))
-- Class 4: [Voltorb](https://bulbapedia.bulbagarden.net/wiki/Voltorb_(Pokémon))
-- Class 5: [Exeggcute](https://bulbapedia.bulbagarden.net/wiki/Exeggcute_(Pokémon))
-
+#Dataset Features
 The variables from the dataset includes:
 
 - Time appeared 
@@ -41,6 +36,18 @@ The variables from the dataset includes:
 - Gym in 100 m
 - Co-occurrence
 
+#Classifications:
+
+The classification of the Pokémon are classified as following:
+
+- Class 0: [Sandshrew](https://bulbapedia.bulbagarden.net/wiki/Sandshrew_(Pokémon))
+- Class 1: [Tentacool](https://bulbapedia.bulbagarden.net/wiki/Tentacool_(Pokémon))
+- Class 2: [Slowpoke](https://bulbapedia.bulbagarden.net/wiki/Slowpoke_(Pokémon))
+- Class 3: [Magnemite](https://bulbapedia.bulbagarden.net/wiki/Magnemite_(Pokémon))
+- Class 4: [Voltorb](https://bulbapedia.bulbagarden.net/wiki/Voltorb_(Pokémon))
+- Class 5: [Exeggcute](https://bulbapedia.bulbagarden.net/wiki/Exeggcute_(Pokémon))
+
+#Performance Evaluation:
 As shown in the line chart below, the predictive model is trained and tested to held balance between being overfitting and underfitting, and loss and accuracy are assigned as evaluation metric to conduct validation assessment. The loss presented in the upper figure indicates the model performance in each iteration of optimisation, the result implies the descending errors made throughout the model learning process. On the other hand, the degree of accuracy suggests the predictive capability of the model parameter.
 
 <img src="https://github.com/HsxinDy/Hsin-Yi/blob/4006c8b5a47d7ff031d36423937cf9c05958c582/Material/Poke%CC%81mon%20Tracker%20Result.png" width="300" height="420">
