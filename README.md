@@ -1,6 +1,6 @@
 # Project Portfolio
 
-This portfolio showcases my expertise in data analysis and artificial intelligence three distinct projects:  
+This portfolio demonstrates my expertise in data analysis and artificial intelligence three distinct projects:  
 
 * Pokémon Tracker
 * Scene Image Classification
@@ -38,7 +38,7 @@ The variables from the dataset includes:
 - Co-occurrence
 
 ### Classifications
-The classification of the Pokémon are classified as following:
+The classification of the Pokémon is classified as follows:
 
 - Class 0: [Sandshrew](https://bulbapedia.bulbagarden.net/wiki/Sandshrew_(Pokémon))
 - Class 1: [Tentacool](https://bulbapedia.bulbagarden.net/wiki/Tentacool_(Pokémon))
@@ -47,7 +47,7 @@ The classification of the Pokémon are classified as following:
 - Class 4: [Voltorb](https://bulbapedia.bulbagarden.net/wiki/Voltorb_(Pokémon))
 - Class 5: [Exeggcute](https://bulbapedia.bulbagarden.net/wiki/Exeggcute_(Pokémon))
 
-### Performance Evaluation
+### Model Evaluation
 As shown in the line chart below, the predictive model is trained and tested to held balance between being overfitting and underfitting, and loss and accuracy are assigned as evaluation metric to conduct validation assessment. The loss presented in the upper figure indicates the model performance in each iteration of optimisation, the result implies the descending errors made throughout the model learning process. On the other hand, the degree of accuracy suggests the predictive capability of the model parameter.
 
 <img src="https://github.com/HsxinDy/Hsin-Yi/blob/4006c8b5a47d7ff031d36423937cf9c05958c582/Material/Poke%CC%81mon%20Tracker%20Result.png" width="300" height="420">
@@ -64,7 +64,7 @@ The classification of the dataset is targeted at 15 types scene images. The exam
 
 ![](Material/CNN.png)
 
-### Performance Evaluation
+### Model Evaluation
 The performance of image detection is illustrated from the graph below: 
 
 <img src="https://github.com/HsxinDy/Hsin-Yi/blob/4006c8b5a47d7ff031d36423937cf9c05958c582/Material/Image%20Detection%20Result.png" width="300" height="390">
@@ -73,8 +73,11 @@ The performance of image detection is illustrated from the graph below:
 Further detail of the algorithmn for this project could be assessed through the file `Scene Image Classification.ipynb`.
 
 ## Credit Card Fraud Detection
+
+### Objective
 This project is took part in [2019 T-Brain Machine Learning Competition](https://tbrain.trendmicro.com.tw/Competitions/Details/10) held by E.SUN Commercial Bank. The purpose of the competition is to prevent fraudulent transactions with Machine Learning. 
 
+### Model Evaluation
 In this project, XGBoost algorithm is adopted to achieve the project objective. The measurement for prediction model performance is weighed by F1 Score, which explains the harmonic mean of the precision and recall. The result of the F1 Score is presetned as below:
 
 <img src="https://github.com/HsxinDy/Hsin-Yi/blob/b4075a6a58d5328bd97305725c46c2a0175f8c03/Material/Credit%20Card%20Fraud%20Detection%20Result.png" width="300" height="200">
@@ -82,4 +85,4 @@ In this project, XGBoost algorithm is adopted to achieve the project objective. 
 Further detail of the algorithmn for this project could be assessed through the file `Credit Card Fraud Detection.ipynb`.
 
 ## Conclusion
-These projects reflect my practical experience and proficiency in applying data analysis and machine learning techniques to address complex 
+These projects showcase my practical experience and proficiency in applying data analysis and machine learning techniques. Each project highlights my capability in navigating complex datasets and addressing real-world challenges effectively.
