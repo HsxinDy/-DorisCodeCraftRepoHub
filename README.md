@@ -1,13 +1,12 @@
 # Project Portfolio
 
-This portfolio includes three  projects:  
+This portfolio showcases my expertise in data analysis and artificial intelligence three distinct projects:  
 
 * Pokémon Tracker
 * Scene Image Classification
 * Credit Card Fraud Detection
 
-The implementation of each project underlies the
- as following: 
+The implementation of each project underlies as following: 
 
 ![](Material/Flowchart.png)
 
