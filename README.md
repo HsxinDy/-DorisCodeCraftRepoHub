@@ -1,6 +1,6 @@
 # Project Portfolio
 
-This portfolio demonstrates my expertise in data analysis and artificial intelligence three distinct projects:  
+This portfolio demonstrates my expertise in data analysis and artificial intelligence through three distinct projects:  
 
 * Pokémon Tracker
 * Scene Image Classification
